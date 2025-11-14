@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/Author-KalloloCoder-blue" />
   </a>
 </p>
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 Selamat datang ke **Digital DNA MVP** - Sistem Identitas Digital Adaptif berbasis Behavioral Biometrics.
 
@@ -403,6 +402,7 @@ Untuk questions atau issues:
 
 **Last Updated**: November 14, 2025
 **Version**: MVP 0.1.0
+
 
 
 
