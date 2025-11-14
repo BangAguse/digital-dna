@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.12-blue" />
   <img src="https://img.shields.io/github/tag/KalloloCoder/digital-dna.svg" />
-  <img src="https://img.shields.io/github/license/KalloloCoder/digital-dna" />
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" />
   <img src="https://img.shields.io/badge/Maintained-Yes-green" />
   <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen" />
   <img src="https://img.shields.io/github/stars/KalloloCoder/digital-dna?style=social" />
@@ -403,6 +403,7 @@ Untuk questions atau issues:
 
 **Last Updated**: November 14, 2025
 **Version**: MVP 0.1.0
+
 
 
 
