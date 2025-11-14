@@ -371,7 +371,10 @@ Project ini dilisensikan di bawah MIT License. Lihat LICENSE file untuk details.
 Untuk questions atau issues:
 1. Open GitHub Issue
 2. Diskusi di GitHub Discussions
-3. Contact: team@digitaldna.io (simulated)
+3. Contact:
+   - Email: muhammadagustriananda@gmail.com
+   - Phone: [085756444803](https://wa.me/+6285756444803)/[087722604369](https://wa.me/+6287722604369)
+   - Github: [KalloloCoder](https://github.com/KalloloCoder)
 
 ---
 
@@ -385,3 +388,4 @@ Untuk questions atau issues:
 
 **Last Updated**: November 14, 2025
 **Version**: MVP 0.1.0
+
