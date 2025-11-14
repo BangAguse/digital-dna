@@ -416,7 +416,7 @@ Contributors will be recognized in:
 - **Issues**: Report bugs, request features
 - **Discussions**: Questions, ideas, discussions
 - **Pull Requests**: Code contributions
-- **Email**: contact@digitaldna.io
+- **Email**: muhammadagustriananda@gmail.com
 - **Slack** (coming soon): Community chat
 
 ## Additional Resources
@@ -460,4 +460,5 @@ Thank you for contributing! 🙏
 
 **Last Updated**: November 14, 2025
 **Version**: 1.0
+
 
