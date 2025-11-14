@@ -172,7 +172,7 @@ Menciptakan sistem keamanan digital yang adaptif dan personal, dimana setiap ent
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/yourusername/digital-dna.git
+git clone https://github.com/KalloloCoder/digital-dna.git
 cd digital-dna
 ```
 
@@ -402,6 +402,7 @@ Untuk questions atau issues:
 
 **Last Updated**: November 14, 2025
 **Version**: MVP 0.1.0
+
 
 
 
