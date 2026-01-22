@@ -1,4 +1,6 @@
+<p align="center">
 <a href="https://freeimage.host/i/f9zCABa"><img src="https://iili.io/f9zCABa.md.jpg" alt="f9zCABa.md.jpg" border="0"></a>
+</p>
 # Digital DNA v1.0
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.12-blue" />
@@ -402,6 +404,7 @@ Untuk questions atau issues:
 
 **Last Updated**: November 14, 2025
 **Version**: 1.0
+
 
 
 
